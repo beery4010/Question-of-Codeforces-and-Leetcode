@@ -18,7 +18,7 @@ List of beginner friendly questions on codeforces and leetcode
 <td><a href="https://codeforces.com/problemset/problem/282/A" target="_blank">A. Bit++</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/1.%20A.%20Bit%2B%2B">Code</a></td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/1. A. Bit%2B%2B.py">Code</a></td>
 </tr>
 </table>
   </center>
