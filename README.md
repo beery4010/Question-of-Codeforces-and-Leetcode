@@ -29,6 +29,15 @@ List of beginner friendly questions on codeforces and leetcode
 <td>2</td>
 <td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/2.%20Stone%20Game%20(877).py">Code</a></td>
 </tr>
+
+<tr>
+<td>3</td>
+<td><a href="https://codeforces.com/problemset/problem/263/A" target="_blank">A. Beautiful Matrix</a></td>
+<td>Codeforces</td>
+<td>1</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/3. 263A - Beautiful Matrix.py">Code</a></td>
+</tr>
+
 </table>
   </center>
   </body>
