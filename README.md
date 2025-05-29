@@ -23,7 +23,7 @@ List of beginner friendly questions on codeforces and leetcode
 </tr>
 
 <tr>
-<td>1</td>
+<td>2</td>
 <td><a href="https://leetcode.com/problems/stone-game/description/" target="_blank">877. Stone Game</a></td>
 <td>Leetcode</td>
 <td>2</td>
