@@ -143,6 +143,14 @@ List of beginner friendly questions on codeforces and leetcode
 <td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/16.%20A.%20Wrong%20Subtraction.py">Code</a></td>
 </tr>
 
+<tr>
+<td>17</td>
+<td><a href="https://codeforces.com/problemset/problem/546/A" target="_blank">A. Soldier and Bananas</a></td>
+<td>Codeforces</td>
+<td>1</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/17.%20A.%20Soldier%20and%20Bananas.py">Code</a></td>
+</tr>
+
 </table>
   </center>
   </body>
