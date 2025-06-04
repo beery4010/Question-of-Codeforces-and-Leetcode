@@ -70,6 +70,31 @@ List of beginner friendly questions on codeforces and leetcode
 <td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/7. A. Fox And Snake.py">Code</a></td>
 </tr>
 
+<tr>
+<td>8</td>
+<td><a href="https://codeforces.com/problemset/problem/785/A" target="_blank">A. Anton and Polyhedrons</a></td>
+<td>Codeforces</td>
+<td>1</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/8.%20A.%20Anton%20and%20Polyhedrons.py">Code</a></td>
+</tr>
+
+<tr>
+<td>9</td>
+<td><a href="https://codeforces.com/problemset/problem/144/A" target="_blank">A. Arrival of the General</a></td>
+<td>Codeforces</td>
+<td>2</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/9.%20A.%20Arrival%20of%20the%20General.py">Code</a></td>
+</tr>
+
+
+<tr>
+<td>10</td>
+<td><a href="https://codeforces.com/problemset/problem/1030/A" target="_blank">A. In Search of an Easy Problem</a></td>
+<td>Codeforces</td>
+<td>1</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/10.%20A.%20In%20Search%20of%20an%20Easy%20Problem.py">Code</a></td>
+</tr>
+
 </table>
   </center>
   </body>
