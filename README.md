@@ -119,6 +119,14 @@ List of beginner friendly questions on codeforces and leetcode
 <td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/13.%20A.%20Presents.py">Code</a></td>
 </tr>
 
+<tr>
+<td>14</td>
+<td><a href="https://codeforces.com/problemset/problem/110/A" target="_blank">A. Nearly Lucky Number</a></td>
+<td>Codeforces</td>
+<td>1</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/14.%20A.%20Nearly%20Lucky%20Number.py">Code</a></td>
+</tr>
+
 </table>
   </center>
   </body>
