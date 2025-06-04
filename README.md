@@ -95,6 +95,14 @@ List of beginner friendly questions on codeforces and leetcode
 <td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/10.%20A.%20In%20Search%20of%20an%20Easy%20Problem.py">Code</a></td>
 </tr>
 
+<tr>
+<td>11</td>
+<td><a href="https://leetcode.com/problems/reverse-integer/" target="_blank">7. Reverse Integer</a></td>
+<td>Leetcode</td>
+<td>1</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/11.%20Reverse%20Integer%20(7).py">Code</a></td>
+</tr>
+
 </table>
   </center>
   </body>
