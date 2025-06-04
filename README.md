@@ -103,6 +103,14 @@ List of beginner friendly questions on codeforces and leetcode
 <td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/11.%20Reverse%20Integer%20(7).py">Code</a></td>
 </tr>
 
+<tr>
+<td>12</td>
+<td><a href="https://leetcode.com/problems/palindrome-number/description/" target="_blank">9. Palindrome Number</a></td>
+<td>Leetcode</td>
+<td>1</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/12.%20Palindrome%20Number%20(9).py">Code</a></td>
+</tr>
+
 </table>
   </center>
   </body>
