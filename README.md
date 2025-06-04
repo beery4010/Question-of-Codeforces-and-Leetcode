@@ -111,6 +111,14 @@ List of beginner friendly questions on codeforces and leetcode
 <td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/12.%20Palindrome%20Number%20(9).py">Code</a></td>
 </tr>
 
+<tr>
+<td>13</td>
+<td><a href="https://codeforces.com/problemset/problem/136/A" target="_blank">A. Presents</a></td>
+<td>Codeforces</td>
+<td>1</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/13.%20A.%20Presents.py">Code</a></td>
+</tr>
+
 </table>
   </center>
   </body>
