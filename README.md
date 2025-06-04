@@ -151,6 +151,22 @@ List of beginner friendly questions on codeforces and leetcode
 <td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/17.%20A.%20Soldier%20and%20Bananas.py">Code</a></td>
 </tr>
 
+<tr>
+<td>18</td>
+<td><a href="https://codeforces.com/problemset/problem/791/A" target="_blank">A. Bear and Big Brother</a></td>
+<td>Codeforces</td>
+<td>1</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/18.%20A.%20Bear%20and%20Big%20Brother.py">Code</a></td>
+</tr>
+
+<tr>
+<td>19</td>
+<td><a href="https://codeforces.com/problemset/problem/236/A" target="_blank">A. Boy or Girl</a></td>
+<td>Codeforces</td>
+<td>1</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/19.%20A.%20Boy%20or%20Girl.py">Code</a></td>
+</tr>
+
 </table>
   </center>
   </body>
