@@ -191,6 +191,14 @@ List of beginner friendly questions on codeforces and leetcode
 <td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/22. A. C%2B%3D.py">Code</a></td>
 </tr>
 
+<tr>
+<td>23</td>
+<td><a href="https://codeforces.com/problemset/problem/1097/A" target="_blank">A. Gennady and a Card Game</a></td>
+<td>Codeforces</td>
+<td>1</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/23.%20A.%20Gennady%20and%20a%20Card%20Game.py">Code</a></td>
+</tr>
+
 </table>
   </center>
   </body>
