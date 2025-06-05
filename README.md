@@ -167,13 +167,28 @@ List of beginner friendly questions on codeforces and leetcode
 <td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/19.%20A.%20Boy%20or%20Girl.py">Code</a></td>
 </tr>
 
-
 <tr>
 <td>20</td>
 <td><a href="https://codeforces.com/problemset/problem/281/A" target="_blank">A. Word Capitalization</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/20.%20A.%20Word%20Capitalization.py">Code</a></td>
+</tr>
+
+<tr>
+<td>21</td>
+<td><a href="https://codeforces.com/problemset/problem/339/A" target="_blank">A. Helpful Maths</a></td>
+<td>Codeforces</td>
+<td>1</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/21.%20A.%20Helpful%20Maths.py">Code</a></td>
+</tr>
+
+<tr>
+<td>22</td>
+<td><a href="https://codeforces.com/problemset/problem/1368/A" target="_blank">A. C+=</a></td>
+<td>Codeforces</td>
+<td>1</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/22. A. C%2B%3D.py">Code</a></td>
 </tr>
 
 </table>
