@@ -215,6 +215,14 @@ List of beginner friendly questions on codeforces and leetcode
 <td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/25.%20A.%20Boring%20Apartments.py">Code</a></td>
 </tr>
 
+<tr>
+<td>26</td>
+<td><a href="https://codeforces.com/problemset/problem/1303/A" target="_blank">A. Erasing Zeroes</a></td>
+<td>Codeforces</td>
+<td>2</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/26.%20A.%20Erasing%20Zeroes.py">Code</a></td>
+</tr>
+
 </table>
   </center>
   </body>
