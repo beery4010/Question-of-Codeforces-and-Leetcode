@@ -223,6 +223,14 @@ List of beginner friendly questions on codeforces and leetcode
 <td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/26.%20A.%20Erasing%20Zeroes.py">Code</a></td>
 </tr>
 
+<tr>
+<td>27</td>
+<td><a href="https://codeforces.com/problemset/problem/1095/A" target="_blank">A. Repeating Cipher</a></td>
+<td>Codeforces</td>
+<td>1</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/27.%20A.%20Repeating%20Cipher.py">Code</a></td>
+</tr>
+
 </table>
   </center>
   </body>
