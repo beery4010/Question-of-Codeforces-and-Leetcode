@@ -207,6 +207,14 @@ List of beginner friendly questions on codeforces and leetcode
 <td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/24.%20A.%20Vanya%20and%20Cubes.py">Code</a></td>
 </tr>
 
+<tr>
+<td>25</td>
+<td><a href="https://codeforces.com/problemset/problem/1433/A" target="_blank">A. Boring Apartments</a></td>
+<td>Codeforces</td>
+<td>1</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/25.%20A.%20Boring%20Apartments.py">Code</a></td>
+</tr>
+
 </table>
   </center>
   </body>
