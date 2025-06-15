@@ -231,6 +231,14 @@ List of beginner friendly questions on codeforces and leetcode
 <td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/27.%20A.%20Repeating%20Cipher.py">Code</a></td>
 </tr>
 
+<tr>
+<td>27</td>
+<td><a href="https://leetcode.com/contest/weekly-contest-454/problems/generate-tag-for-video-caption/description/" target="_blank">Q1. Generate Tag for Video Caption</a></td>
+<td>Leetcode</td>
+<td>1</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/28.%20Q1.%20Generate%20Tag%20for%20Video%20Caption.py">Code</a></td>
+</tr>
+
 </table>
   </center>
   </body>
