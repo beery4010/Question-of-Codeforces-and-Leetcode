@@ -247,6 +247,14 @@ List of beginner friendly questions on codeforces and leetcode
 <td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/29.%20A.%20False%20Alarm.py">Code</a></td>
 </tr>
 
+<tr>
+<td>30</td>
+<td><a href="https://codeforces.com/contest/2118/problem/A" target="_blank">A. Equal Subsequences</a></td>
+<td>Codeforces</td>
+<td>1</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/30.%20A.%20Equal%20Subsequences.py">Code</a></td>
+</tr>
+
 </table>
   </center>
   </body>
