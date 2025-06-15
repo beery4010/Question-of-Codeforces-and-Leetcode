@@ -232,11 +232,19 @@ List of beginner friendly questions on codeforces and leetcode
 </tr>
 
 <tr>
-<td>27</td>
+<td>28</td>
 <td><a href="https://leetcode.com/contest/weekly-contest-454/problems/generate-tag-for-video-caption/description/" target="_blank">Q1. Generate Tag for Video Caption</a></td>
 <td>Leetcode</td>
 <td>1</td>
 <td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/28.%20Q1.%20Generate%20Tag%20for%20Video%20Caption.py">Code</a></td>
+</tr>
+
+<tr>
+<td>29</td>
+<td><a href="https://codeforces.com/contest/2117/problem/A" target="_blank">A. False Alarm</a></td>
+<td>Codeforces</td>
+<td>1</td>
+<td><a href="https://github.com/beery4010/Question-of-Codeforces-and-Leetcode/blob/main/29.%20A.%20False%20Alarm.py">Code</a></td>
 </tr>
 
 </table>
